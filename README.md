@@ -12,6 +12,9 @@ A simple machine-learning web app and notebook to predict the winner of Indian P
 - Predict match outcomes using historical IPL data
 - Lightweight Flask app for serving predictions
 - Jupyter notebook for experiments and model improvements
+-
+**Data**
+- Kaggle IPL dataset: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 
 **Prerequisites**
 - Python 3.8+ (see `runtime.txt`)
@@ -44,9 +47,4 @@ This repo includes `Procfile` and `runtime.txt` for easy deployment to platforms
 **Contributing**
 - Feel free to open issues or PRs. Add tests and update the notebook or `app.py` as needed.
 
-**Notes & TODOs**
-- Add sample data and example requests.
-- Document model input schema and output format in detail.
 
-**License**
-- Add a LICENSE file if you want to make the project public.
